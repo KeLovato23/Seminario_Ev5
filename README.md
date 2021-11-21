@@ -1,4 +1,4 @@
-# pizza_shop
+# ecommerce de pizza
 
 A new Flutter project.
 
